@@ -1,0 +1,61 @@
+  #hd1 {background-color: green;
+    text-align: center;
+  }
+  #hd2, #hd3 {background-color: yellow ;
+  align-self: stretch;}
+table {border: 2px solid black;
+  border-collapse: collapse;
+margin: 10px;}
+td, th {border: 2px solid black;
+    padding: 10px;
+    margin: 2px;
+  text-align: center;}
+  th {
+    background-color: lightgreen;
+    font-style: normal;
+  }
+  td {
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  input {margin: 5px;
+  padding: 3px;}
+  .div1 {
+
+    margin: 10px ;
+    padding: 10px;
+    background-color: pink;
+    border-color: red;
+    border-style: double;
+  }
+
+  .div2{
+
+    margin: 10px;
+    padding: 10px;
+    background-color: brown;
+    border-color: black;
+    border-style: outset;
+    border-width: 5px;
+  }
+  .p1, .p2{
+    font-weight: bold;
+    font-size: 50px ;
+    font-style: italic;
+  }
+  #trdiv {
+    border: 0;
+  }
+  #trdiv> tr{
+    border: 0;
+  }
+  #trdiv> td {
+  border: 0;
+  }
+  .Menu {
+    border: 0;
+    background-color: lightgrey;
+  }
+  .Menu td {
+    border: 0;
+  }
